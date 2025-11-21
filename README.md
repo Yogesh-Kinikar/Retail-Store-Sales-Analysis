@@ -134,9 +134,3 @@ This project analyzes retail store transaction data to uncover **sales trends**,
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
 
----
-
-## ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/retail-store-analysis.git
